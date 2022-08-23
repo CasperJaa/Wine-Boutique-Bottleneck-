@@ -1,4 +1,4 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/CasperJaa/Wine-Boutique-Bottleneck-/blob/main/Logo.jpg?raw=true)
 
 # Wine Boutique "Bottleneck"
 > E-commerce site data preparation and sales analysis to improve company strategy
