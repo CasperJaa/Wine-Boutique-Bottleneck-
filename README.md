@@ -1,4 +1,4 @@
-
+https://github.com/CasperJaa/Wine-Boutique-Bottleneck-/blob/main/Logo.jpg
 
 # Wine Boutique "Bottleneck"
 > E-commerce site data preparation and sales analysis to improve company strategy
