@@ -1,4 +1,6 @@
-# Wine-Boutique-Bottleneck-
+
+
+# Wine Boutique "Bottleneck"
 > E-commerce site data preparation and sales analysis to improve company strategy
 
 ## Processed data:
@@ -9,3 +11,4 @@
  
 ## Technologies Used
 - Python 3.9.7 in Jupyter Notebook
+
